@@ -15,12 +15,12 @@
 ## 联系作者
 * QQ          209658738
 <div align="left">
-<img width="250" height="250" src="shuoming/QQ.png" alt="QQ.png"/>
+<img width="250" height="250" src="resources/shuoming/QQ.png" alt="QQ.png"/>
 </p>
 </div>
 * 微信        YYConfuse
 <div align="left">
-<img width="100" height="100" src="shuoming/weixin.png" alt="weixin.png"/>
+<img width="100" height="100" src="resources/shuoming/weixin.png" alt="weixin.png"/>
 </p>
 </div>
 
