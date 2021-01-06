@@ -20,7 +20,7 @@
 </div>
 * 微信        YYConfuse
 <div align="left">
-<img width="100" height="100" src="resources/shuoming/weixin.png" alt="weixin.png"/>
+<img width="250" height="250" src="resources/shuoming/weixin.png" alt="weixin.png"/>
 </p>
 </div>
 
