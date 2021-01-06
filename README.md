@@ -14,9 +14,15 @@
 
 ## 联系作者
 * QQ          209658738
-![QQ](resources/shuoming/QQ.png)
+<div align="left">
+<img width="250" height="250" src="shuoming/QQ.png" alt="QQ.png"/>
+</p>
+</div>
 * 微信        YYConfuse
-![微信](resources/shuoming/weixin.png)
+<div align="left">
+<img width="100" height="100" src="shuoming/weixin.png" alt="weixin.png"/>
+</p>
+</div>
 
 # 摘要
 iOS混淆 iOS代码混淆 iOS过审工具 iOS上架 iOS代码混淆工具 iOS工具 iOS马甲包 iOS马甲包工具 iOS混淆 iOS过4.3 iOS过审 iOS confuse iOS code confuse iOS2.3.1解决 iOS账号调查解决办法 iOS账号调查解决 iOS账号调查过审 OC代码混淆 IOS源码混淆 OC混淆 OC代码混淆 OC过审工具 OC代码混淆工具 OC工具 OC马甲包 OC马甲包工具 OC混淆 OC过4.3 OC过审 OC confuse OC code confuse OC解决  OC代码混淆 IOS源码混淆 Flutter源码混淆 Flutter混淆  Flutter代码混淆  Flutter confuse  Flutter马甲包工具  Flutter过审工具 Flutterg提审 Flutter审核 RN源码混淆 RN混淆  RN代码混淆  RN confuse  RN马甲包工具  RN过审工具 RN提审 RN审核  React Native 混淆
