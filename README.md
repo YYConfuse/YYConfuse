@@ -5,6 +5,7 @@
 </div>
 
 ## 更新日志
+* version 1.1.0  2020-01-15  工具限时免费使用开放。欢迎咨询。
 * version 1.1.0  2020-01-11  优化属性匹配，增加删除无用文件功能。
 * version 1.0.0  2020-01-04  正式版本发布，目前只支持OC项目混淆。
 
@@ -24,6 +25,9 @@
 <img width="250" height="250" src="resources/shuoming/weixin.png" alt="weixin.png"/>
 </p>
 </div>
+
+## 权限获取
+<font color="red">新用户免费使用30天，期间上架成功，再送30天。</font>权限联系作者获取。
 
 # 摘要
 iOS混淆 iOS代码混淆 iOS过审工具 iOS上架 iOS代码混淆工具 iOS工具 iOS马甲包 iOS马甲包工具 iOS混淆 iOS过4.3 iOS过审 iOS confuse iOS code confuse iOS2.3.1解决 iOS账号调查解决办法 iOS账号调查解决 iOS账号调查过审 OC代码混淆 IOS源码混淆 OC混淆 OC代码混淆 OC过审工具 OC代码混淆工具 OC工具 OC马甲包 OC马甲包工具 OC混淆 OC过4.3 OC过审 OC confuse OC code confuse OC解决  OC代码混淆 IOS源码混淆 Flutter源码混淆 Flutter混淆  Flutter代码混淆  Flutter confuse  Flutter马甲包工具  Flutter过审工具 Flutterg提审 Flutter审核 RN源码混淆 RN混淆  RN代码混淆  RN confuse  RN马甲包工具  RN过审工具 RN提审 RN审核  React Native 混淆
