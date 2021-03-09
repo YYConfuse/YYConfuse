@@ -6,27 +6,27 @@
 	<dict>
 		<key>Resources/ActivationPowerViewController.nib</key>
 		<data>
-		JwuiFb+UY1r6EdKCF1PUAFRIA/w=
+		emCGUCWnarneoHZEm0HumgrH5Vw=
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		wdO4Gwyt9bRMfBetWECNdVmvYpI=
+		ZXOcCx7cL1saL6ihNVxOllsaqeo=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		4+c1jEcmWg1tnGPskhQXRxK/PNg=
+		DNcwNoN7J5qN1fH6xdcmPnQ/fI8=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		e8rz8L3snY7e90ugfFDlNh12KE4=
+		lr4xDoIpNZxewXJno/Q710ILq4o=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		gWQ5LDDvGmmBXVX9qKsTwleUeHE=
+		Mjx/YqMyvaCjHZ3l9+WbAW9DTf8=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		9U0M7T5KvE9j0rr+yPS4k1MEt7A=
+		qdqx2cKL4ZmWhAHY+fCAFtwF2qw=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
@@ -34,39 +34,39 @@
 		</data>
 		<key>Resources/HomePageViewController.nib</key>
 		<data>
-		yvLDLMlloJiWSO67OkP6iUEx/0Q=
+		xGxDsJQEvgyrYBNFLMqvFguBtSk=
 		</data>
 		<key>Resources/HunXiaoHandlerViewController.nib</key>
 		<data>
-		YzXmDMIdR7lM5DxVVYJIYHvRo/U=
+		2J4TGALxnecWCo8ntuUJIdSb9Ec=
 		</data>
 		<key>Resources/HunXiaoSettingViewController.nib</key>
 		<data>
-		tI9MDy/MTZS+nSKFpk/l/Q6Y8qY=
+		Yxa1E53T/QGWEIRYjhI/0WHNRI0=
 		</data>
 		<key>Resources/HunXiaoWordSettingViewController.nib</key>
 		<data>
-		05GiqeOKOq6xYN0QewkKIqyjZk0=
+		B22nV/pwg3IFM2ShIUQcPjYHz9c=
 		</data>
 		<key>Resources/IgnoreConditionSettingViewController.nib</key>
 		<data>
-		PXKKF/tS6nydhkAiG2S1rK84Qh8=
+		HokfmMX2MGFYoA0ADYAJpCt6Jj8=
 		</data>
 		<key>Resources/LoginPageViewController.nib</key>
 		<data>
-		dIAtFWCDkaslIv4g6UWP+X6khg0=
+		Az0QANNBs/d7mVdVZ+28IVrFHcM=
 		</data>
 		<key>Resources/PeiZhiChoicePageViewController.nib</key>
 		<data>
-		j7yBuLIXjUw9QN2ctu2eunvyjoM=
+		qqD0QH7d1JOxEcb5wyU+vrXl2zI=
 		</data>
 		<key>Resources/SettingConfigViewController.nib</key>
 		<data>
-		3jMc2Srm3VOUOd+zA+Q9yjI2Ics=
+		Jp77TzuWCs8t94Y9f1icCUZOKyg=
 		</data>
 		<key>Resources/YingYongHandlerViewController.nib</key>
 		<data>
-		p9wuqaiaVZSOy1d8yo07sy86GYk=
+		Wa4sgSqWVqtWIqt1nw5EV/+jXlM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -75,66 +75,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JwuiFb+UY1r6EdKCF1PUAFRIA/w=
+			emCGUCWnarneoHZEm0HumgrH5Vw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7xGml+FPiYUwJvVQ/tMBm+Jn/YNTAk8v2eOGXzVfONE=
+			arWxQanFvJA6/qc76+aw+tsibCOqA972zWF05Vedl1I=
 			</data>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wdO4Gwyt9bRMfBetWECNdVmvYpI=
+			ZXOcCx7cL1saL6ihNVxOllsaqeo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Vh0ea1oWdxyE3zw6oY962Mx7hIkTLACL6XN4OvsQLI=
+			OFDuOmU2m73aycqil/xadQkNgsiQ4jMuSiOuQEwrA0k=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4+c1jEcmWg1tnGPskhQXRxK/PNg=
+			DNcwNoN7J5qN1fH6xdcmPnQ/fI8=
 			</data>
 			<key>hash2</key>
 			<data>
-			zDWP1mSa0gx5g6MRnA8pILPEQ0wdfgJifI+bRKk9PG0=
+			Sw8vdYMqMD3LORIew9dGbeVkj5eQCOYqbwJR+vsVX6s=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e8rz8L3snY7e90ugfFDlNh12KE4=
+			lr4xDoIpNZxewXJno/Q710ILq4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Gp+c2LCWOuOfSy7iGwbD5J/qC3diY+DTtQo1ISiznU=
+			X8QMlhsW+cTG2K1iwv4TCrk7NkFAoWEvlyakDnvawLM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gWQ5LDDvGmmBXVX9qKsTwleUeHE=
+			Mjx/YqMyvaCjHZ3l9+WbAW9DTf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			MMzqH8hcH1phBBCEtRNGSlzqMgDoQ5wtEjWyRlzyZbs=
+			qhW0gRhz8O49IUnD6uBb1UaFoQiHShCBT1YMhMmHkcU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9U0M7T5KvE9j0rr+yPS4k1MEt7A=
+			qdqx2cKL4ZmWhAHY+fCAFtwF2qw=
 			</data>
 			<key>hash2</key>
 			<data>
-			p8Do12J32Q717v+3l3zyZINsGfRrCgsH1echkjj56/w=
+			niE9ryzMO3so2CO6ETIK6v6tmCmf/PWZWJQBYqvThn8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
@@ -152,99 +152,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yvLDLMlloJiWSO67OkP6iUEx/0Q=
+			xGxDsJQEvgyrYBNFLMqvFguBtSk=
 			</data>
 			<key>hash2</key>
 			<data>
-			FTxCwyO71ZHSQsrmaJb0kCuHI6QinT+7qdteu8Hu+rg=
+			msW/GuDqRrOgubF6oYCrIaCTFiBl8CMT3ARiAgK1JRQ=
 			</data>
 		</dict>
 		<key>Resources/HunXiaoHandlerViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YzXmDMIdR7lM5DxVVYJIYHvRo/U=
+			2J4TGALxnecWCo8ntuUJIdSb9Ec=
 			</data>
 			<key>hash2</key>
 			<data>
-			znnaCDKduHX5wAJYpRx5qt4sO3qORfwvAtmCKpOp0e4=
+			HGqXmapAKBEjfS2d604a3ebXgUWYYKYPhK9A12SGIS4=
 			</data>
 		</dict>
 		<key>Resources/HunXiaoSettingViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tI9MDy/MTZS+nSKFpk/l/Q6Y8qY=
+			Yxa1E53T/QGWEIRYjhI/0WHNRI0=
 			</data>
 			<key>hash2</key>
 			<data>
-			pf1jbF6xBMBQ3hZkTBen3hJE/dUkl9xE2f/hdtJhzoM=
+			J57ZCErfvt4BsX4xVj17qEUNefOryr8o4O4imgrsDik=
 			</data>
 		</dict>
 		<key>Resources/HunXiaoWordSettingViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			05GiqeOKOq6xYN0QewkKIqyjZk0=
+			B22nV/pwg3IFM2ShIUQcPjYHz9c=
 			</data>
 			<key>hash2</key>
 			<data>
-			9iMuw6Vgh9SUGbV7GiXWg3NDC9iZFAh9GysQ6wv2+9A=
+			tAzGCpw/npgbRNx51AGye5Fl2seuGQSf0/y4faFw3xg=
 			</data>
 		</dict>
 		<key>Resources/IgnoreConditionSettingViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PXKKF/tS6nydhkAiG2S1rK84Qh8=
+			HokfmMX2MGFYoA0ADYAJpCt6Jj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xYG4eMdVnPYZwgxt98BhbGRcP69z8cUts+LGLilVcXo=
+			99lcoKYtW3fig2pcBA+9DcwpSj0RO0PGMj5d8Gdtnpk=
 			</data>
 		</dict>
 		<key>Resources/LoginPageViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dIAtFWCDkaslIv4g6UWP+X6khg0=
+			Az0QANNBs/d7mVdVZ+28IVrFHcM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Alq4fzvMOaze74GPI9tl++PVj3AkghsYO9kLEtqguic=
+			gme7yQsN3xGTJ1kTm5KLg3K5EyCC6SrewF9wd6sbP94=
 			</data>
 		</dict>
 		<key>Resources/PeiZhiChoicePageViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j7yBuLIXjUw9QN2ctu2eunvyjoM=
+			qqD0QH7d1JOxEcb5wyU+vrXl2zI=
 			</data>
 			<key>hash2</key>
 			<data>
-			cJZM6EkEFE1q4ShQkZlrQ44oUP7sfAPm8tuA7gR2e2c=
+			0zJPECW4ed055GTFrn/aXDv5tB0yLV3hcn46A3vQCns=
 			</data>
 		</dict>
 		<key>Resources/SettingConfigViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3jMc2Srm3VOUOd+zA+Q9yjI2Ics=
+			Jp77TzuWCs8t94Y9f1icCUZOKyg=
 			</data>
 			<key>hash2</key>
 			<data>
-			I+qPv4tWL6rBEHFyA1UyAFCB78wYnncUwXNtQ5+j7kk=
+			PIctuyDnrBH/UNU1lL9jF1YQHhVP9ipGL8NWIngh+wA=
 			</data>
 		</dict>
 		<key>Resources/YingYongHandlerViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p9wuqaiaVZSOy1d8yo07sy86GYk=
+			Wa4sgSqWVqtWIqt1nw5EV/+jXlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kt8JbYeKTUx0y4tLBSeI3N7Pj+Zf8xLoF+/VaoCFo7U=
+			q85BVfvvnRhAUA0qzc0aOIsGqrEmBRfhNEdNNtiOjgg=
 			</data>
 		</dict>
 	</dict>
